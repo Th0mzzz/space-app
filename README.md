@@ -1,1 +1,1 @@
-Um projeto aonde aprendi a utilizar componentes estilizados com o <strong>STYLED-COMPONENTS</srong>
+Um projeto aonde aprendi a utilizar componentes estilizados com o <strong>STYLED-COMPONENTS</strong>
